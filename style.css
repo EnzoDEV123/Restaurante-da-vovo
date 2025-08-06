@@ -11,14 +11,14 @@
         }
 
         .categoria-btn.ativa {
-            background: linear-gradient(135deg, #ff6b35 0%, #f7931e 100%);
+            background: linear-gradient(135deg, #e619db 0%, #f7931e 100%);
             color: white;
             box-shadow: 0 4px 12px rgba(255, 107, 53, 0.3);
         }
 
         .loading-spinner {
             border: 3px solid #f3f3f3;
-            border-top: 3px solid #ff6b35;
+            border-top: 3px solid #b91bc7;
             border-radius: 50%;
             width: 40px;
             height: 40px;
@@ -102,7 +102,6 @@
 
             100% {
                 transform: translateY(0);
-                opacity: 1;
             }
         }
 
